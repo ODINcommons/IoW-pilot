@@ -1,7 +1,7 @@
 # ODIN Isle of Wight Pilot
 ### A commons-first learning and civic design experiment
 
-**Status**: Pre-launch — first sessions planned for 2025
+**Status**: Pre-launch — first sessions planned for 2026
 **Node type**: Community / School
 **Location**: Isle of Wight, UK
 **Facilitator**: Simon Pearce ([@SeaWizard-ODIN](https://github.com/SeaWizard-ODIN))
