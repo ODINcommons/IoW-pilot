@@ -2,13 +2,6 @@
 
 ### A commons-first learning and civic design experiment
 
-**Status**: Pre-launch — first sessions planned for 2026
-**Node type**: Community / School
-**Location**: Isle of Wight, UK
-**Facilitator**: Simon Pearce ([@SeaWizard-ODIN](https://github.com/SeaWizard-ODIN))
-**Organisation**: [ODINcommons](https://github.com/ODINcommons)
-**Licence**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
 ---
 
 ## What this is
@@ -26,7 +19,7 @@ It is forkable,remixable, and attribution-protected. The intellectual work of ev
 
 The island is a contained, legible system: geographically bounded, ecologically pressured,and politically navigable at human scale. Its coastline l faces ongoing sewage discharge from water companies. Its schools are state-funded and underserved by conventional innovation programmes. Its communities have maritime,composite,and engineering heritage that makes peer prototyping plausible.
 
-It is a good place to ask: can a peer network of curious people — including children — prototype impactful solutions to real local problems faster and more honestly than industry?
+It is a good place to ask: can a peer network of curious people, including children, prototype impactful solutions to real local problems faster and more honestly than industry?
 
 We intend to find out.
 
@@ -105,3 +98,11 @@ Its artefacts are primary sources in an ongoing practice-based PhD inquiry.
 > Ubuntu
 
 ---
+
+**Status**: First sessions planned for 2026
+**Node type**: Community / School
+**Location**: Isle of Wight, UK
+**Facilitator**: Simon Pearce ([@SeaWizard-ODIN](https://github.com/SeaWizard-ODIN))
+**Organisation**: [ODINcommons](https://github.com/ODINcommons)
+**Licence**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
