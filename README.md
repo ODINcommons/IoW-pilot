@@ -48,33 +48,29 @@ IoW-pilot/
 
 ## The pilot sequence
 
-**Phase 1 — SOLE sessions**
+**Phase 1: SOLE sessions**
 Self-organised learning across age groups (5–7, 7–11, 11–14, 14–16) in state primary and secondary schools. Opening question: water. No curriculum,no sssessment, no predetermined answers.
 
-**Phase 2 — Pivot sessions**
+**Phase 2: Pivot sessions**
 Groups return to a shared Question Map assembled from Phase 1. A new question emerges from what they found: what are the water-related problems we face here,
 and what could we do about them?
 
-**Phase 3 — Impactathon**
+**Phase 3: Impactathon**
 Mixed-age, mixed-school teams design real responses to real problems. Designs are documented, published, and attributed the same day.
 
-**Phase 4 — Prototype**
+**Phase 4: Prototype**
 The most viable design moves into a build phase, in partnership with local industry, hackspaces, and open hardware networks. All build files are committed
 here under CC BY-SA 4.0.
 
 ---
 
-## First project: Pooseidon
+## First project idea: Pooseidon
 
-A citizen-deployed water quality monitoring network for Isle of Wight coastal waters. Named by the community. Designed by children. Built by a peer network.
+A citizen-deployed water quality monitoring network for Isle of Wight coastal waters.
 
 Pooseidon buoys detect pollution signatures in real time and automatically alert water companies, local MPs, and the public when unsafe thresholds are crossed.
 
 All data is open by default. All designs are commons-licensed from day one.
-
-The concept originated in SOLE sessions at Isle of Wight state schools in 2026.
-
-Every contributor, including the children who asked the first questions, is logged in `ovn-contributions.md`.
 
 ---
 
