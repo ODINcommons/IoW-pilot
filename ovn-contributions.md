@@ -23,6 +23,8 @@ and before any external partner joins a build phase.
 |---|---|---|---|---|
 | 2025-03-30 | SeaWizard-ODIN | conceptual | project-init | Original concept: IoW pilot, SOLE sessions, Pooseidon water quality monitoring network |
 | 2025-03-30 | SeaWizard-ODIN | documentation | project-init | README, provenance template, CONTRIBUTING guide |
+| 2026-09-26 | SeaWizard-ODIN | conceptual | resilience-gis-init | Hazard inventory and scope for an open-source Isle of Wight resilience GIS tool (AI-assisted drafting) |
+| 2026-09-26 | SeaWizard-ODIN | design | resilience-gis-init | Open GIS/geospatial data-source catalogue and technical architecture plan for the resilience GIS tool (AI-assisted drafting) |
 
 ---
 

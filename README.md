@@ -41,7 +41,8 @@ IoW-pilot/
 │       └── artefacts/
 │           └── [SCHOOL-CODE]-[YYYY-MM-DD]-[PHASE]-[NNN]-[description].[ext]
 ├── question-map.md         ← living document: all questions, annotated
-└── ovn-contributions.md    ← open value network contribution log
+├── ovn-contributions.md    ← open value network contribution log
+└── resilience-gis/         ← open-source Island hazard/resilience GIS tool
 ```
 
 ---
@@ -71,6 +72,16 @@ A citizen-deployed water quality monitoring network for Isle of Wight coastal wa
 Pooseidon buoys detect pollution signatures in real time and automatically alert water companies, local MPs, and the public when unsafe thresholds are crossed.
 
 All data is open by default. All designs are commons-licensed from day one.
+
+---
+
+## Companion tool: Resilience GIS
+
+An open-source, forkable GIS tool bringing together the Island's flood,
+coastal erosion, landslip, water-quality, and climate hazard data onto one
+map — evidence for the questions this pilot's sessions already ask. See
+[`resilience-gis/`](resilience-gis/) for the hazard inventory, the open
+data-source catalogue, and the technical plan.
 
 ---
 
